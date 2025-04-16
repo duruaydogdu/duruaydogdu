@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi I'm Duru 👩🏻‍💻
 
-<!--
-**duruaydogdu/duruaydogdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩🏻‍🎓 I'm a 4th year Computer Engineering student at Pamukkale University
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌞 I'm passionate about Mobile Development and currently improving myself in iOS development
+
+---
+
+## Connect with me
+
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duruaydogdu/) 
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:duruaydogdu02@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/druaydogdu)  
+
