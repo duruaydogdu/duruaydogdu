@@ -3,7 +3,7 @@
 👩🏻‍🎓 I'm a 4th year Computer Engineering student at Pamukkale University
 
 
-🌞 I'm passionate about Mobile Development and currently improving myself in iOS development
+🌞 I'm interested in Mobile Development and currently improving myself in iOS development
 
 ---
 
