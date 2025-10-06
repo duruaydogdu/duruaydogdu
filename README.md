@@ -1,9 +1,9 @@
 # Hi I'm Duru 👩🏻‍💻
 
-👩🏻‍🎓 I'm a 4th year Computer Engineering student at Pamukkale University
+👩🏻‍🎓 I recently graduated from **Pamukkale University, Computer Engineering
 
 
-🌞 I'm interested in Mobile Development and currently improving myself in iOS development
+🌱 I'm interested in Mobile Development and currently improving myself in iOS development
 
 ---
 
