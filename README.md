@@ -1,6 +1,6 @@
 # Hi I'm Duru 👩🏻‍💻
 
-👩🏻‍🎓 I recently graduated from **Pamukkale University, Computer Engineering
+👩🏻‍🎓 I have recently completed my Bachelor's studies in Computer Engineering at Pamukkale University.
 
 
 🌱 I'm interested in Mobile Development and currently improving myself in iOS development
